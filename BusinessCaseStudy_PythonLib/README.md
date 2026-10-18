@@ -109,7 +109,7 @@ This case study helped me gain practical experience with:
 
 ## 🚀 Conclusion
 
-This project was a valuable step in strengthening my Python and Pandas fundamentals through practical problem-solving. It helped me understand how data exploration, filtering, aggregation, and merging can work together to answer data-related questions.
+This project was a valuable step in strengthening my Numpy and Pandas fundamentals through practical problem-solving. It helped me understand how data exploration, filtering, aggregation, and merging can work together to answer data-related questions.
 
 I plan to continue building on these skills by solving more case studies and applying data analysis techniques to increasingly complex datasets.
 

@@ -1,4 +1,4 @@
-# 📊 Telco Customer Churn Analysis — Exploratory Data Analysis (EDA)
+# 📊 Customer Churn Analysis — Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
 
